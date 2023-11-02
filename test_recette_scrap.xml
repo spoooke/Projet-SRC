@@ -1,0 +1,61 @@
+<section class="borderSection ingredients noPrice ">
+    <header class="borderSection_header">
+        <h2 class="borderSection_title m-0">Ingrédients :</h2>
+        <button type="button" class="button button-ingredient --dark" id="ContentPlaceHolder_LblRecetteNombre">
+                <span class="js-remove button-ingredient_icon p10" id="IngredientChange1">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="9.45" height="2.31" viewBox="0 0 9.45 2.31">
+                        <path d="M18.775,14.06h9.45v2.31h-9.45Z" transform="translate(-18.775 -14.06)" fill="currentColor"></path>
+                    </svg>
+                </span>
+            <span id="LblRecetteNombre" class="js-indicator" style="margin: 0 auto">4 Pers.</span>
+                <span class="js-add button-ingredient_icon" id="IngredientChange2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="12.36" height="12.36" viewBox="0 0 12.36 12.36">
+                        <path d="M22.3,6.32h2.4v5.01h4.98v2.34H24.7v5.01H22.3V13.67H17.32V11.33H22.3Z" transform="translate(-17.32 -6.32)" fill="currentColor"></path>
+                    </svg>
+                </span>
+        </button>
+
+
+    </header>
+
+            <ul>
+                <li class="ingredient_step"><span> </span></li>
+                    <li>
+                        <picture><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/noix-de-st-jacques-7448.webp" type="image/webp"><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/noix-de-st-jacques-7448.jpg" type="image"><img alt="Noix de St Jacques" class="ingredient_img" loading="lazy" src="https://img.cuisineaz.com/250x167/ingredients/all/noix-de-st-jacques-7448.jpg" width="250" height="167"></picture>
+
+                            <span class="ingredient_label">Noix de St Jacques</span>
+                        <span class="js-ingredient-qte ingredient_qte">200 g</span>
+                    </li>
+                    <li>
+                        <picture><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/grenade-86.webp" type="image/webp"><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/grenade-86.jpg" type="image"><img alt="Grenade(s)" class="ingredient_img" loading="lazy" src="https://img.cuisineaz.com/250x167/ingredients/all/grenade-86.jpg" width="250" height="167"></picture>
+
+                            <span class="ingredient_label">Grenade(s)</span>
+                        <span class="js-ingredient-qte ingredient_qte">1 </span>
+                    </li>
+                    <li>
+                        <picture><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/huile-d-olive-254.webp" type="image/webp"><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/huile-d-olive-254.jpg" type="image"><img alt="Huile d'olive" class="ingredient_img" loading="lazy" src="https://img.cuisineaz.com/250x167/ingredients/all/huile-d-olive-254.jpg" width="250" height="167"></picture>
+
+                            <span class="ingredient_label">Huile d'olive</span>
+                        <span class="js-ingredient-qte ingredient_qte">2 c. à soupe</span>
+                    </li>
+                    <li>
+                        <picture><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/jus-de-citron-jaune-8847.webp" type="image/webp"><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/jus-de-citron-jaune-8847.jpg" type="image"><img alt="Jus de citron(s) jaune(s)" class="ingredient_img" loading="lazy" src="https://img.cuisineaz.com/250x167/ingredients/all/jus-de-citron-jaune-8847.jpg" width="250" height="167"></picture>
+
+                            <span class="ingredient_label">Jus de citron(s) jaune(s)</span>
+                        <span class="js-ingredient-qte ingredient_qte">1 </span>
+                    </li>
+                    <li>
+                        <picture><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/basilic-frais-6997.webp" type="image/webp"><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/basilic-frais-6997.jpg" type="image"><img alt="Basilic frais" class="ingredient_img" loading="lazy" src="https://img.cuisineaz.com/250x167/ingredients/all/basilic-frais-6997.jpg" width="250" height="167"></picture>
+
+                            <span class="ingredient_label">Basilic frais</span>
+                        <span class="js-ingredient-qte ingredient_qte">1 branche(s)</span>
+                    </li>
+                    <li>
+                        <picture><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/sel-poivre-6822.webp" type="image/webp"><source srcset="https://img.cuisineaz.com/250x167/ingredients/all/sel-poivre-6822.jpg" type="image"><img alt="Sel, poivre" class="ingredient_img" loading="lazy" src="https://img.cuisineaz.com/250x167/ingredients/all/sel-poivre-6822.jpg" width="250" height="167"></picture>
+
+                            <span class="ingredient_label">Sel, poivre</span>
+                        <span class="js-ingredient-qte ingredient_qte"> </span>
+                    </li>
+
+            </ul>
+</section>
